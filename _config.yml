@@ -1,4 +1,3 @@
-layout_spectrum: 0.8627901105210185
 typography_spectrum: 0.06536246719770133
 color:
   brandStrength: 0.5590527986641973
@@ -11,4 +10,6 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.8627901105210185
 name: 3Daudio.party
+title: 3D Audio Party!
