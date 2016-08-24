@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T09:18:23.102Z'
+datePublished: '2016-08-24T09:26:19.822Z'
 sourcePath: _posts/2016-08-24-pax-dev-seattle-wa-aug-31-sep-1-2016.md
 isBasedOnUrl: >-
   http://dev.paxsite.com/schedule/panel/through-the-looking-glass-3d-audio-your-vr-games-world
@@ -17,11 +17,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T09:18:22.563Z'
+dateModified: '2016-08-24T09:26:19.207Z'
 title: 'Through the Looking Glass: 3D Audio & Your VR Game’s World'
 app_links: []
 publisher: {}
-description: 'Presenters: Joshua Du Chene, Jacob Pernell, Gordon McGladdery, Carlye Nyte'
+description: See our official PAX DEV panel page here
 inLanguage: en
 starred: false
 inFeed: true
@@ -35,10 +35,10 @@ _type: MediaObject
 
 # Through the Looking Glass: 3D Audio & Your VR Game's World
 
-Presenters: Joshua Du Chene, Jacob Pernell, Gordon McGladdery, Carlye Nyte
+## Presenters: Joshua Du Chene, Jacob Pernell, Gordon McGladdery, Carlye Nyte
 
-<article style=""><p>Ambisonics, surround sound, binaural, spatialization, HRTF… Audio for virtual reality can be confusing, and as developers and audio professionals in this modern VR era, it’s critical to understand what these things are/aren’t and how they’ll make or break your game. Join the audio geeks behind Fantastic Contraption, AudioVR.com, &amp; Tomorrow Today Labs VR as they demystify and clarify 3D sound and provide you the tools &amp; info you need to create immersive audio experiences for your players.</p></article>
+<article style=""><h1>Ambisonics, surround sound, binaural, spatialization, HRTF…</h1><p>Audio for virtual reality can be confusing, and as developers and audio professionals in this modern VR era, it’s critical to understand what these things are/aren’t and how they’ll make or break your game. Join the audio geeks behind Fantastic Contraption, AudioVR.com, &amp; Tomorrow Today Labs VR as they demystify and clarify 3D sound and provide you the tools &amp; info you need to create immersive audio experiences for your players.</p></article>
 
-Official PAX DEV panel page: [http://dev.paxsite.com/schedule/panel/through-the-looking-glass-3d-audio-your-vr-games-world][0]
+[See our official PAX DEV panel page here][0]
 
-[0]: http://dev.paxsite.com/schedule/panel/through-the-looking-glass-3d-audio-your-vr-games-world
+[0]: http://dev.paxsite.com/schedule/panel/through-the-looking-glass-3d-audio-your-vr-games-world "Official PAX DEV panel page"
