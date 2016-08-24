@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T09:03:41.323Z'
+datePublished: '2016-08-24T09:08:31.140Z'
 sourcePath: _posts/2016-08-24-pax-dev-seattle-wa-aug-31-sep-1-2016.md
 isBasedOnUrl: >-
   http://dev.paxsite.com/schedule/panel/through-the-looking-glass-3d-audio-your-vr-games-world
@@ -17,8 +17,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T09:03:40.916Z'
-title: Come see our talk about 3D Audio @ PAX DEV 2016!
+dateModified: '2016-08-24T09:08:30.773Z'
+title: Come see our 3D Audio talk @ PAX DEV 2016!
 app_links: []
 publisher:
   url: 'http://dev.paxsite.com'
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Come see our talk about 3D Audio @ PAX DEV 2016!
+# Come see our 3D Audio talk @ PAX DEV 2016!
 
 Thursday, September 1, 11:45am-12:45pm, Fifth Avenue Room
 
