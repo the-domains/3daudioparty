@@ -1,16 +1,16 @@
-typography_spectrum: 0.06536246719770133
+layout_spectrum: 0.5455757032614201
+typography_spectrum: 0.7955300705507398
 color:
-  brandStrength: 0.5590527986641973
-  lightness: 0.7167757467832416
-  saturation: 0.4512267429381609
-  rhythmicContrast: 0.6514497185125947
+  brandStrength: 0.4452715045772493
+  lightness: 0.2822465319186449
+  saturation: 0.9425368027295917
+  rhythmicContrast: 0.9909173818305135
   brandColors:
-    - '#CFC291'
-    - '#FFF6C5'
-    - '#A1E8D9'
-    - '#FF712C'
-    - '#695D46'
-layout_spectrum: 0.8627901105210185
+    - '#212528'
+    - '#444C53'
+    - '#979996'
+    - '#7B6A58'
+    - '#CFC8B5'
 name: 3Daudio.party
 title: 3D Audio Party! @ PAX DEV 2016
 description: 'Thursday, September 1st @ 11:45am - Fifth Avenue Room'
